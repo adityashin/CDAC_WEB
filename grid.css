@@ -1,0 +1,21 @@
+*{
+    font-size:
+}
+.container{
+    margin:auto;
+    border:solid;
+    display:flex;
+    width:1000px;
+    list-style:none;
+}
+.brands{
+    width:25%;
+    border:10px solid cyan;
+}
+.col-8{
+    display:flex;
+}
+.col-3{
+    width:33.333%;
+    border:10px solid red;
+}
